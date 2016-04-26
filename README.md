@@ -25,5 +25,5 @@ $().startLoading(options);
 Allowed options and its default values are the following
 
 Option | Type | Default | Description
---------------------------------------
+-------|------|---------|-------------
 message | string | Loading... | The text shown
