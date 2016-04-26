@@ -9,7 +9,7 @@ Import jquery and jquery-loading.js to your web app.
 ```
 <script src='jquery.min.js'></script>
 <script src='jquery-loading.min.js'></script>
-´´´
+```
 
 ## Use
 
@@ -18,7 +18,7 @@ To start showing the loading message, just type
 ```
 $().startLoading(options);
 
-´´´
+```
 
 ### Options
 
